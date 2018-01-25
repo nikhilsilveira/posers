@@ -1,0 +1,1 @@
+Standalone solutions for interview questions / puzzles encountered at various points of time.
